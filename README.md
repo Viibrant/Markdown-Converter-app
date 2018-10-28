@@ -1,8 +1,2 @@
-# markdownconverter
+This is a converter I made to convert any url into some markdown which can be shared.
 
-A new Flutter project.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
